@@ -1,0 +1,5 @@
+ultralytics
+yaml
+opencv-python
+matplotlib
+numpy

@@ -1,0 +1,6 @@
+names:
+  '0': cluster
+path: clusters
+test: test
+train: train
+val: val

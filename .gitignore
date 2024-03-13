@@ -1,0 +1,4 @@
+wgisd
+datasets
+*.pt
+.ipynb_checkpoints
